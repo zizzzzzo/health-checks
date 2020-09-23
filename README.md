@@ -2,4 +2,4 @@
 Scripts that checks health of my computer.
 This is a line from GitHub.com
 A new line...
-Testing "git add -p"
+"This is another line from GitHub.com"
